@@ -1,0 +1,6003 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 45.0,
+        "attack": 49,
+        "defense": 49,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 60.0,
+        "attack": 62,
+        "defense": 63,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 80.0,
+        "attack": 82,
+        "defense": 83,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 39.0,
+        "attack": 52,
+        "defense": 43,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 58.0,
+        "attack": 64,
+        "defense": 58,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Ground",
+            "Rock",
+            "Water"
+        ],
+        "hp": 78.0,
+        "attack": 84,
+        "defense": 78,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 44.0,
+        "attack": 48,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 59.0,
+        "attack": 63,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 79.0,
+        "attack": 83,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "types": [
+            "Bug"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "hp": 45.0,
+        "attack": 30,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png",
+        "moves": [
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Snore",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bug-bite",
+                "type": "Bug",
+                "damage": 60.0
+            },
+            {
+                "name": "Electroweb",
+                "type": "Electric",
+                "damage": 55.0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "types": [
+            "Bug"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "hp": 50.0,
+        "attack": 20,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png",
+        "moves": [
+            {
+                "name": "Bug-bite",
+                "type": "Bug",
+                "damage": 60.0
+            },
+            {
+                "name": "Electroweb",
+                "type": "Electric",
+                "damage": 55.0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Flying",
+            "Fire",
+            "Rock"
+        ],
+        "hp": 60.0,
+        "attack": 45,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Flying",
+            "Fire",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 40.0,
+        "attack": 35,
+        "defense": 30,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Bug-bite",
+                "type": "Bug",
+                "damage": 60.0
+            },
+            {
+                "name": "Electroweb",
+                "type": "Electric",
+                "damage": 55.0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Flying",
+            "Fire",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 45.0,
+        "attack": 25,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png",
+        "moves": [
+            {
+                "name": "Bug-bite",
+                "type": "Bug",
+                "damage": 60.0
+            },
+            {
+                "name": "Electroweb",
+                "type": "Electric",
+                "damage": 55.0
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Flying",
+            "Fire",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 65.0,
+        "attack": 90,
+        "defense": 40,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Fury-attack",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Pidgey",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 40.0,
+        "attack": 45,
+        "defense": 40,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 63.0,
+        "attack": 60,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 83.0,
+        "attack": 80,
+        "defense": 75,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 30.0,
+        "attack": 56,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 55.0,
+        "attack": 81,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 40.0,
+        "attack": 60,
+        "defense": 30,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 65.0,
+        "attack": 90,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 35.0,
+        "attack": 60,
+        "defense": 44,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/23.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 60.0,
+        "attack": 95,
+        "defense": 69,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "types": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "hp": 35.0,
+        "attack": 55,
+        "defense": 40,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "types": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "hp": 60.0,
+        "attack": 90,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/26.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "types": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ice",
+            "Grass"
+        ],
+        "hp": 50.0,
+        "attack": 75,
+        "defense": 85,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "types": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ice",
+            "Grass"
+        ],
+        "hp": 75.0,
+        "attack": 100,
+        "defense": 110,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Nidoran-f",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 55.0,
+        "attack": 47,
+        "defense": 52,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 70.0,
+        "attack": 62,
+        "defense": 67,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "types": [
+            "Poison",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Ice",
+            "Ground",
+            "Psychic",
+            "Water"
+        ],
+        "hp": 90.0,
+        "attack": 92,
+        "defense": 87,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Nidoran-m",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 46.0,
+        "attack": 57,
+        "defense": 40,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 61.0,
+        "attack": 72,
+        "defense": 57,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "types": [
+            "Poison",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Ice",
+            "Ground",
+            "Psychic",
+            "Water"
+        ],
+        "hp": 81.0,
+        "attack": 102,
+        "defense": 77,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/34.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Steel",
+            "Poison"
+        ],
+        "hp": 70.0,
+        "attack": 45,
+        "defense": 48,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png",
+        "moves": [
+            {
+                "name": "Sweet-kiss",
+                "type": "Fairy",
+                "damage": 0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Steel",
+            "Poison"
+        ],
+        "hp": 95.0,
+        "attack": 70,
+        "defense": 73,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png",
+        "moves": [
+            {
+                "name": "Sweet-kiss",
+                "type": "Fairy",
+                "damage": 0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 38.0,
+        "attack": 41,
+        "defense": 40,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 73.0,
+        "attack": 76,
+        "defense": 75,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Steel",
+            "Poison"
+        ],
+        "hp": 115.0,
+        "attack": 45,
+        "defense": 20,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png",
+        "moves": [
+            {
+                "name": "Pound",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Steel",
+            "Poison"
+        ],
+        "hp": 140.0,
+        "attack": 70,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png",
+        "moves": [
+            {
+                "name": "Pound",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "types": [
+            "Poison",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Ground",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 40.0,
+        "attack": 45,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/41.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "types": [
+            "Poison",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Ground",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 75.0,
+        "attack": 80,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 45.0,
+        "attack": 50,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/43.png",
+        "moves": [
+            {
+                "name": "Acid",
+                "type": "Poison",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 60.0,
+        "attack": 65,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/44.png",
+        "moves": [
+            {
+                "name": "Acid",
+                "type": "Poison",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 75.0,
+        "attack": 80,
+        "defense": 85,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/45.png",
+        "moves": [
+            {
+                "name": "Acid",
+                "type": "Poison",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Fire",
+            "Rock"
+        ],
+        "hp": 35.0,
+        "attack": 70,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png",
+        "moves": [
+            {
+                "name": "Absorb",
+                "type": "Grass",
+                "damage": 20.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Fire",
+            "Rock"
+        ],
+        "hp": 60.0,
+        "attack": 95,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png",
+        "moves": [
+            {
+                "name": "Absorb",
+                "type": "Grass",
+                "damage": 20.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Flying",
+            "Fire",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 60.0,
+        "attack": 55,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png",
+        "moves": [
+            {
+                "name": "Poison-powder",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Flying",
+            "Fire",
+            "Rock",
+            "Psychic"
+        ],
+        "hp": 70.0,
+        "attack": 65,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/49.png",
+        "moves": [
+            {
+                "name": "Poison-powder",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "types": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ice",
+            "Grass"
+        ],
+        "hp": 10.0,
+        "attack": 55,
+        "defense": 25,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/50.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "types": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ice",
+            "Grass"
+        ],
+        "hp": 35.0,
+        "attack": 100,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 40.0,
+        "attack": 45,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png",
+        "moves": [
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 65.0,
+        "attack": 70,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png",
+        "moves": [
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 50.0,
+        "attack": 52,
+        "defense": 48,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 80.0,
+        "attack": 82,
+        "defense": 78,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/55.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Scratch",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 40.0,
+        "attack": 80,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png",
+        "moves": [
+            {
+                "name": "Karate-chop",
+                "type": "Fighting",
+                "damage": 50.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 65.0,
+        "attack": 105,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/57.png",
+        "moves": [
+            {
+                "name": "Karate-chop",
+                "type": "Fighting",
+                "damage": 50.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 55.0,
+        "attack": 70,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 90.0,
+        "attack": 110,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/59.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 40.0,
+        "attack": 50,
+        "defense": 40,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 65.0,
+        "attack": 65,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "types": [
+            "Water",
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric",
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 90.0,
+        "attack": 95,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/62.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 25.0,
+        "attack": 20,
+        "defense": 15,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/63.png",
+        "moves": [
+            {
+                "name": "Confusion",
+                "type": "Psychic",
+                "damage": 50.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 40.0,
+        "attack": 35,
+        "defense": 30,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/64.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 55.0,
+        "attack": 50,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/65.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 70.0,
+        "attack": 80,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png",
+        "moves": [
+            {
+                "name": "Karate-chop",
+                "type": "Fighting",
+                "damage": 50.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 80.0,
+        "attack": 100,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png",
+        "moves": [
+            {
+                "name": "Karate-chop",
+                "type": "Fighting",
+                "damage": 50.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 90.0,
+        "attack": 130,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png",
+        "moves": [
+            {
+                "name": "Karate-chop",
+                "type": "Fighting",
+                "damage": 50.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 50.0,
+        "attack": 75,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 65.0,
+        "attack": 90,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Ground",
+            "Flying",
+            "Fire",
+            "Psychic"
+        ],
+        "hp": 80.0,
+        "attack": 105,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/71.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Electric",
+            "Psychic",
+            "Grass"
+        ],
+        "hp": 40.0,
+        "attack": 40,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Wrap",
+                "type": "Normal",
+                "damage": 15.0
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Electric",
+            "Psychic",
+            "Grass"
+        ],
+        "hp": 80.0,
+        "attack": 70,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png",
+        "moves": [
+            {
+                "name": "Poison-sting",
+                "type": "Poison",
+                "damage": 15.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Wrap",
+                "type": "Normal",
+                "damage": 15.0
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Ground",
+            "Water"
+        ],
+        "hp": 40.0,
+        "attack": 80,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Ground",
+            "Water"
+        ],
+        "hp": 55.0,
+        "attack": 95,
+        "defense": 115,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Ground",
+            "Water"
+        ],
+        "hp": 80.0,
+        "attack": 120,
+        "defense": 130,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/76.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 50.0,
+        "attack": 85,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/77.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 65.0,
+        "attack": 100,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/78.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Stomp",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Grass",
+            "Ghost",
+            "Electric",
+            "Dark"
+        ],
+        "hp": 90.0,
+        "attack": 65,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Stomp",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Grass",
+            "Ghost",
+            "Electric",
+            "Dark"
+        ],
+        "hp": 95.0,
+        "attack": 75,
+        "defense": 110,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/80.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Stomp",
+                "type": "Normal",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "types": [
+            "Electric",
+            "Steel"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Fighting",
+            "Fire"
+        ],
+        "hp": 25.0,
+        "attack": 35,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png",
+        "moves": [
+            {
+                "name": "Thunder-shock",
+                "type": "Electric",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "types": [
+            "Electric",
+            "Steel"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Fighting",
+            "Fire"
+        ],
+        "hp": 50.0,
+        "attack": 60,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/82.png",
+        "moves": [
+            {
+                "name": "Thunder-shock",
+                "type": "Electric",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Farfetchd",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 52.0,
+        "attack": 90,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Doduo",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 35.0,
+        "attack": 85,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png",
+        "moves": [
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Jump-kick",
+                "type": "Fighting",
+                "damage": 100.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 60.0,
+        "attack": 110,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png",
+        "moves": [
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Jump-kick",
+                "type": "Fighting",
+                "damage": 100.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Seel",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 65.0,
+        "attack": 45,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Dewgong",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Rock",
+            "Fire"
+        ],
+        "hp": 90.0,
+        "attack": 70,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 80.0,
+        "attack": 80,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 105.0,
+        "attack": 105,
+        "defense": 75,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/89.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 30.0,
+        "attack": 65,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Rock",
+            "Fire"
+        ],
+        "hp": 50.0,
+        "attack": 95,
+        "defense": 180,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ground",
+            "Ghost",
+            "Psychic"
+        ],
+        "hp": 30.0,
+        "attack": 35,
+        "defense": 30,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ground",
+            "Ghost",
+            "Psychic"
+        ],
+        "hp": 45.0,
+        "attack": 50,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ground",
+            "Ghost",
+            "Psychic"
+        ],
+        "hp": 60.0,
+        "attack": 65,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Onix",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Ground",
+            "Water"
+        ],
+        "hp": 35.0,
+        "attack": 45,
+        "defense": 160,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png",
+        "moves": [
+            {
+                "name": "Rock-throw",
+                "type": "Rock",
+                "damage": 50.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 60.0,
+        "attack": 48,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 85.0,
+        "attack": 73,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/97.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Krabby",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 30.0,
+        "attack": 105,
+        "defense": 90,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/98.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Stomp",
+                "type": "Normal",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 55.0,
+        "attack": 130,
+        "defense": 115,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/99.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Stomp",
+                "type": "Normal",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Voltorb",
+        "types": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "hp": 40.0,
+        "attack": 30,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png",
+        "moves": [
+            {
+                "name": "Thunder-shock",
+                "type": "Electric",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Electrode",
+        "types": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "hp": 60.0,
+        "attack": 50,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/101.png",
+        "moves": [
+            {
+                "name": "Thunder-shock",
+                "type": "Electric",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "types": [
+            "Grass",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Ghost",
+            "Poison",
+            "Flying",
+            "Fire",
+            "Dark"
+        ],
+        "hp": 60.0,
+        "attack": 40,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png",
+        "moves": [
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            },
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "types": [
+            "Grass",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Ghost",
+            "Poison",
+            "Flying",
+            "Fire",
+            "Dark"
+        ],
+        "hp": 95.0,
+        "attack": 95,
+        "defense": 85,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "types": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ice",
+            "Grass"
+        ],
+        "hp": 50.0,
+        "attack": 50,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png",
+        "moves": [
+            {
+                "name": "Earthquake",
+                "type": "Ground",
+                "damage": 100.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "types": [
+            "Ground"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ice",
+            "Grass"
+        ],
+        "hp": 60.0,
+        "attack": 80,
+        "defense": 110,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png",
+        "moves": [
+            {
+                "name": "Earthquake",
+                "type": "Ground",
+                "damage": 100.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Hitmonlee",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 50.0,
+        "attack": 120,
+        "defense": 53,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            },
+            {
+                "name": "Jump-kick",
+                "type": "Fighting",
+                "damage": 100.0
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Hitmonchan",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic"
+        ],
+        "hp": 50.0,
+        "attack": 105,
+        "defense": 79,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png",
+        "moves": [
+            {
+                "name": "Submission",
+                "type": "Fighting",
+                "damage": 80.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Lickitung",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 90.0,
+        "attack": 55,
+        "defense": 75,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/108.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Koffing",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 40.0,
+        "attack": 65,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Weezing",
+        "types": [
+            "Poison"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic"
+        ],
+        "hp": 65.0,
+        "attack": 90,
+        "defense": 120,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png",
+        "moves": [
+            {
+                "name": "Toxic",
+                "type": "Poison",
+                "damage": 0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "types": [
+            "Ground",
+            "Rock"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Ground",
+            "Water"
+        ],
+        "hp": 80.0,
+        "attack": 85,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/111.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Fury-attack",
+                "type": "Normal",
+                "damage": 15.0
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "types": [
+            "Ground",
+            "Rock"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Ground",
+            "Water"
+        ],
+        "hp": 105.0,
+        "attack": 130,
+        "defense": 120,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/112.png",
+        "moves": [
+            {
+                "name": "Sand-attack",
+                "type": "Ground",
+                "damage": 0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 250.0,
+        "attack": 5,
+        "defense": 5,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png",
+        "moves": [
+            {
+                "name": "Pound",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Tangela",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Fire"
+        ],
+        "hp": 65.0,
+        "attack": 55,
+        "defense": 115,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/114.png",
+        "moves": [
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Vine-whip",
+                "type": "Grass",
+                "damage": 45.0
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 105.0,
+        "attack": 95,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png",
+        "moves": [
+            {
+                "name": "Pound",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Comet-punch",
+                "type": "Normal",
+                "damage": 18.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Horsea",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 30.0,
+        "attack": 40,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 55.0,
+        "attack": 65,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png",
+        "moves": [
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            },
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 45.0,
+        "attack": 67,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/118.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Fury-attack",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 80.0,
+        "attack": 92,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/119.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Fury-attack",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 30.0,
+        "attack": 45,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Grass",
+            "Ghost",
+            "Electric",
+            "Dark"
+        ],
+        "hp": 60.0,
+        "attack": 75,
+        "defense": 85,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Mr-mime",
+        "types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Steel",
+            "Poison",
+            "Dark"
+        ],
+        "hp": 40.0,
+        "attack": 45,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Flying",
+            "Fire",
+            "Rock"
+        ],
+        "hp": 70.0,
+        "attack": 110,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Jynx",
+        "types": [
+            "Ice",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Fighting",
+            "Ghost",
+            "Steel",
+            "Fire",
+            "Rock",
+            "Dark"
+        ],
+        "hp": 65.0,
+        "attack": 50,
+        "defense": 35,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png",
+        "moves": [
+            {
+                "name": "Pound",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-slap",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "types": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "hp": 65.0,
+        "attack": 83,
+        "defense": 57,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 65.0,
+        "attack": 95,
+        "defense": 57,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "types": [
+            "Bug"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ],
+        "hp": 65.0,
+        "attack": 125,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png",
+        "moves": [
+            {
+                "name": "String-shot",
+                "type": "Bug",
+                "damage": 0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Bind",
+                "type": "Normal",
+                "damage": 15.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 75.0,
+        "attack": 100,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png",
+        "moves": [
+            {
+                "name": "Stomp",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 20.0,
+        "attack": 10,
+        "defense": 55,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png",
+        "moves": [
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Hydro-pump",
+                "type": "Water",
+                "damage": 110.0
+            },
+            {
+                "name": "Bounce",
+                "type": "Flying",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Rock",
+            "Grass"
+        ],
+        "hp": 95.0,
+        "attack": 125,
+        "defense": 79,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Rock",
+            "Fire"
+        ],
+        "hp": 130.0,
+        "attack": 85,
+        "defense": 80,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png",
+        "moves": [
+            {
+                "name": "Mist",
+                "type": "Ice",
+                "damage": 0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 48.0,
+        "attack": 48,
+        "defense": 48,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png",
+        "moves": [
+            {
+                "name": "Transform",
+                "type": "Normal",
+                "damage": 0
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 55.0,
+        "attack": 55,
+        "defense": 50,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png",
+        "moves": [
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Grass"
+        ],
+        "hp": 130.0,
+        "attack": 65,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "types": [
+            "Electric"
+        ],
+        "weaknesses": [
+            "Ground"
+        ],
+        "hp": 65.0,
+        "attack": 65,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png",
+        "moves": [
+            {
+                "name": "Thunder-shock",
+                "type": "Electric",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Water",
+            "Rock"
+        ],
+        "hp": 65.0,
+        "attack": 130,
+        "defense": 60,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png",
+        "moves": [
+            {
+                "name": "Ember",
+                "type": "Fire",
+                "damage": 40.0
+            },
+            {
+                "name": "Double-kick",
+                "type": "Fighting",
+                "damage": 30.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 65.0,
+        "attack": 60,
+        "defense": 70,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png",
+        "moves": [
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Tackle",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            },
+            {
+                "name": "Double-edge",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Omanyte",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Ground",
+            "Water"
+        ],
+        "hp": 35.0,
+        "attack": 40,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Omastar",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Ground",
+            "Water"
+        ],
+        "hp": 70.0,
+        "attack": 60,
+        "defense": 125,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Horn-attack",
+                "type": "Normal",
+                "damage": 65.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Ground",
+            "Water"
+        ],
+        "hp": 30.0,
+        "attack": 80,
+        "defense": 90,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Steel",
+            "Electric",
+            "Ground",
+            "Water"
+        ],
+        "hp": 60.0,
+        "attack": 115,
+        "defense": 105,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png",
+        "moves": [
+            {
+                "name": "Water-gun",
+                "type": "Water",
+                "damage": 40.0
+            },
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Cut",
+                "type": "Normal",
+                "damage": 50.0
+            },
+            {
+                "name": "Mega-kick",
+                "type": "Normal",
+                "damage": 120.0
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Fighting",
+            "Ice",
+            "Steel",
+            "Electric",
+            "Ground",
+            "Rock",
+            "Water"
+        ],
+        "hp": 80.0,
+        "attack": 105,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "types": [
+            "Normal"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "hp": 160.0,
+        "attack": 110,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png",
+        "moves": [
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "types": [
+            "Ice",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Ice",
+            "Electric",
+            "Steel",
+            "Fire",
+            "Rock"
+        ],
+        "hp": 90.0,
+        "attack": 85,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "types": [
+            "Electric",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Electric",
+            "Ice",
+            "Rock"
+        ],
+        "hp": 90.0,
+        "attack": 90,
+        "defense": 85,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Take-down",
+                "type": "Normal",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Electric",
+            "Ground",
+            "Rock",
+            "Water"
+        ],
+        "hp": 90.0,
+        "attack": 100,
+        "defense": 90,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png",
+        "moves": [
+            {
+                "name": "Razor-wind",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Gust",
+                "type": "Flying",
+                "damage": 40.0
+            },
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fly",
+                "type": "Flying",
+                "damage": 90.0
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "Dratini",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            "Dragon",
+            "Ice",
+            "Fairy"
+        ],
+        "hp": 41.0,
+        "attack": 64,
+        "defense": 45,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/147.png",
+        "moves": [
+            {
+                "name": "Dragon-rage",
+                "type": "Dragon",
+                "damage": 0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Dragonair",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            "Dragon",
+            "Ice",
+            "Fairy"
+        ],
+        "hp": 61.0,
+        "attack": 84,
+        "defense": 65,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png",
+        "moves": [
+            {
+                "name": "Dragon-rage",
+                "type": "Dragon",
+                "damage": 0
+            },
+            {
+                "name": "Slam",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Headbutt",
+                "type": "Normal",
+                "damage": 70.0
+            },
+            {
+                "name": "Body-slam",
+                "type": "Normal",
+                "damage": 85.0
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "weaknesses": [
+            "Dragon",
+            "Ice",
+            "Electric",
+            "Fairy",
+            "Rock"
+        ],
+        "hp": 91.0,
+        "attack": 134,
+        "defense": 95,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png",
+        "moves": [
+            {
+                "name": "Wing-attack",
+                "type": "Flying",
+                "damage": 60.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            },
+            {
+                "name": "Thunder-punch",
+                "type": "Electric",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 106.0,
+        "attack": 110,
+        "defense": 90,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            },
+            {
+                "name": "Ice-punch",
+                "type": "Ice",
+                "damage": 75.0
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Dark",
+            "Ghost",
+            "Bug"
+        ],
+        "hp": 100.0,
+        "attack": 100,
+        "defense": 100,
+        "sprite_front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+        "sprite_back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png",
+        "moves": [
+            {
+                "name": "Psybeam",
+                "type": "Psychic",
+                "damage": 65.0
+            },
+            {
+                "name": "Mega-punch",
+                "type": "Normal",
+                "damage": 80.0
+            },
+            {
+                "name": "Pay-day",
+                "type": "Normal",
+                "damage": 40.0
+            },
+            {
+                "name": "Fire-punch",
+                "type": "Fire",
+                "damage": 75.0
+            }
+        ]
+    }
+]
